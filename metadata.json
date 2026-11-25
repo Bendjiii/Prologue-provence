@@ -1,0 +1,6 @@
+{
+  "name": "Prologue du Tour de Provence 2024",
+  "description": "Application pédagogique sur le prologue du Tour de Provence 2024 remporté par Mads Pedersen sur la Corniche Kennedy à Marseille.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
